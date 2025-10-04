@@ -21,8 +21,8 @@ Este proyecto es una aplicación móvil desarrollada en React Native con Expo. L
 - **Usuario:** admin
 - **Contraseña:** 1234
 
-## 👨🏽‍💻 Autor
-- [Daniel Mancia](https://github.com/Daniel-Mancia22) - DevMadCode
+## 👨🏽‍💻 Desarrollador
+- **[Daniel Mancia](https://github.com/Daniel-Mancia22) - DevMadCode**
 
 ## 📄 Notas
 Este proyecto fue desarrollado con fines académicos, no incluye persistencia de datos (todos los datos son locales).
