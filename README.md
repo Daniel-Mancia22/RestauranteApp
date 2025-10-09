@@ -15,7 +15,7 @@ Este proyecto es una aplicación móvil desarrollada en React Native con Expo. L
 - Expo
 - React Navigation
 - @expo/vector-icons
-- React Native (JavaScript/TypeScript)
+- React Native (JavaScript)
 
 ## 🔐 Credenciales de Login
 - **Usuario:** admin
